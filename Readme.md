@@ -44,10 +44,7 @@ Each Python script is a self-contained demo showing how to leverage MediaPipe's 
 
 ---
 
-# Save the README content to a file named README.md
-
-readme_content = """
-# 🎯 Real-Time Face & Pose Detection with MediaPipe
+# Real-Time Face & Pose Detection with MediaPipe
 
 This repository features **three Python projects** that demonstrate real-time and static image-based **face and human pose detection** using **[Google's MediaPipe](https://mediapipe.dev/)** and **OpenCV**. These scripts show how to perform:
 
@@ -116,7 +113,7 @@ This repository features **three Python projects** that demonstrate real-time an
 
 Install the required packages:
 
-```bash
+
 pip install opencv-python mediapipe matplotlib numpy
 
 
